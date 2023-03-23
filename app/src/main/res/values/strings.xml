@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="primeira_intera_o_com_o_app">Primeira interação com o App. Aqui, aprenderemos como mudar o seu valor.</string>
 </resources>

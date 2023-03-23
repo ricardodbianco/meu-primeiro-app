@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="primeira_intera_o_com_o_app">First interaction with the App. Here, we going to learn how change your value.</string>
+</resources>
